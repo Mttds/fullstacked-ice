@@ -1,5 +1,9 @@
 # React intro
 
+- Component state (useState)
+- Debugging
+- Event handlers
+
 In .eslintrc.cjs we can add the following key:value under rules if the text editor shows warnings
 
 ```

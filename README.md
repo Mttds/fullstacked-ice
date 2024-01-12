@@ -2,6 +2,8 @@
 
 Fullstack webdev (React, Redux, Node, CI/CD) exercises from University of Helsinki
 
+https://fullstackopen.com/en/
+
 Required:
 
 - npm
@@ -21,9 +23,9 @@ React
 Using nvm for managing node versions.
 
 ```
-nvm install 18.0.0
-nvm use 18.0.0
-nvm alias default 18.0.0
+nvm install 18.3.0
+nvm use 18.3.0
+nvm alias default 18.3.0
 ```
 
 Scaffolding and running the app.
