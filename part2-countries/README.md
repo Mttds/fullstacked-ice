@@ -18,4 +18,4 @@ The start.sh script will use this configuration:
 export OPENWEATHER_API_KEY=$(cut -d"=" -f2) && npm run dev
 ```
 
-[!![Countries](../img/countries.png)]
+![Countries](../img/countries.png)
