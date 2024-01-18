@@ -50,3 +50,25 @@ To run a JavaScript script: `node file.js`
 It is also possible to write JavaScript code into the Node.js console, which is opened by typing node in the command line.
 
 JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview
+
+## Part2
+
+- Rendering a collection, modules
+- Forms
+- Getting data from server
+- Altering data in server
+- Adding styles to React app
+
+## Part3
+
+- Node.js and Express
+- Deploying app to internet
+- MongoDB
+- Validation and ESLint
+
+## Part4
+
+- Structure of backend application, introduction to testing
+- Testing the backend
+- User administration
+- Token authentication
